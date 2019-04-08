@@ -1,4 +1,4 @@
-package endsstudios.listenernetwork
+package mozay.listenernetwork
 
 import android.content.BroadcastReceiver
 import android.content.Context

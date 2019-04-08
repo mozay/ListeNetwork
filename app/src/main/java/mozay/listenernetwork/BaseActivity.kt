@@ -1,4 +1,4 @@
-package endsstudios.listenernetwork
+package mozay.listenernetwork
 
 import android.content.IntentFilter
 import android.net.ConnectivityManager
